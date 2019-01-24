@@ -2,6 +2,7 @@
   "name": "react-todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rathishvbr.github.io/react-todo/",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
