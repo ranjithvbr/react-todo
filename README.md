@@ -4,6 +4,10 @@ Live Demo [Link](https://rathishvbr.github.io/react-todo).
 
 Integrated with Travis CI and Deployed on github Page. 
 
+## What does this product look like ?
+
+![Dashboard](https://github.com/rathishvbr/react-todo/blob/master/public/sneakpeak/ss1.png)
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
