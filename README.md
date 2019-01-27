@@ -2,7 +2,8 @@ Live Demo [Link](https://rathishvbr.github.io/react-todo).
 
 ## Simple To-do
 
-Integrated with Travis CI and Deployed on github Page. 
+Deadly simple react todo app.
+Unit testcase implemented, Integrated with Travis CI and Deployed on github Page. (CI/CD)
 
 ## What does this product look like ?
 
