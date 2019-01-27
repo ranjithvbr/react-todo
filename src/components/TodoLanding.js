@@ -69,7 +69,7 @@ export default class TodoList extends React.Component {
 
     return (
       <div className="container">
-        <h3>Add Item</h3>
+        <h3>Add Todo</h3>
         <TodoForm onSubmit={this.addTodo} />
         <h3>Todo {todosNotComplete.length}</h3>
         {todosNotComplete.map(todo => (
