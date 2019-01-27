@@ -9,6 +9,12 @@ Unit testcase implemented, Integrated with Travis CI and Deployed on github Page
 
 ![Dashboard](https://github.com/rathishvbr/react-todo/blob/master/public/sneakpeak/ss1.png)
 
+## Testcase ?
+
+ Also if you guys can see the build and testcase logs on Travis CI build log detail.
+
+![Testcase](https://github.com/rathishvbr/react-todo/blob/master/public/sneakpeak/ss2.png)
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
